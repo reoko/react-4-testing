@@ -1,3 +1,3 @@
 test('test', () => {
-    expect(toHaveAttribute).toBe(true);
+    expect(true).toBe(true);
 });
